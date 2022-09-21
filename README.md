@@ -1,2 +1,2 @@
-# QEA_Project_1
+# Quantitative Engineering Analysis I Project
 Smart Airbnb pricing through ratings
